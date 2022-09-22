@@ -3,6 +3,7 @@
   <testsuites>
     <testsuite name="The project's test suite">
       <directory>./abstract-factory/products</directory>
+      <directory>./builder</directory>
     </testsuite>
   </testsuites>
 </phpunit>

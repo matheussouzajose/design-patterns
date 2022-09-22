@@ -4,7 +4,8 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "AbstractFactory\\Products\\": "abstract-factory/products/src"
+      "AbstractFactory\\Products\\": "abstract-factory/products/src",
+      "Builder\\": "builder/src"
     }
   },
   "authors": [

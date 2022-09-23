@@ -7,7 +7,8 @@
       "AbstractFactory\\Products\\": "abstract-factory/products/src",
       "Builder\\": "builder/src",
       "Factory\\": "factory-method/src",
-      "Prototype\\": "prototype/src"
+      "Prototype\\": "prototype/src",
+      "Singleton\\": "singleton/src"
     }
   },
   "authors": [

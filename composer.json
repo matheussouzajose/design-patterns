@@ -1,14 +1,14 @@
 {
   "name": "matheussouzajose/solid",
-  "description": "Padrão de projeto de criação",
+  "description": "Padrão de projeto",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "AbstractFactory\\Products\\": "abstract-factory/products/src",
-      "Builder\\": "builder/src",
-      "Factory\\": "factory-method/src",
-      "Prototype\\": "prototype/src",
-      "Singleton\\": "singleton/src"
+      "Creation\\AbstractFactory\\Products\\": "creation/abstract-factory/products/src",
+      "Creation\\Builder\\": "creation/builder/src",
+      "Creation\\Factory\\": "creation/factory-method/src",
+      "Creation\\Prototype\\": "creation/prototype/src",
+      "Creation\\Singleton\\": "creation/singleton/src"
     }
   },
   "authors": [

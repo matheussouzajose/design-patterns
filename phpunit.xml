@@ -2,8 +2,8 @@
 <phpunit bootstrap="./vendor/autoload.php" colors="true">
   <testsuites>
     <testsuite name="The project's test suite">
-      <directory>./abstract-factory/products</directory>
-      <directory>./builder</directory>
+      <directory>./creation/abstract-factory/products</directory>
+      <directory>./creation/builder</directory>
     </testsuite>
   </testsuites>
 </phpunit>

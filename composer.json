@@ -6,7 +6,8 @@
     "psr-4": {
       "AbstractFactory\\Products\\": "abstract-factory/products/src",
       "Builder\\": "builder/src",
-      "Factory\\": "factory-method/src"
+      "Factory\\": "factory-method/src",
+      "Prototype\\": "prototype/src"
     }
   },
   "authors": [

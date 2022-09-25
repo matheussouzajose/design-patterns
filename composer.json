@@ -8,7 +8,9 @@
       "Creation\\Builder\\": "creation/builder/src",
       "Creation\\Factory\\": "creation/factory-method/src",
       "Creation\\Prototype\\": "creation/prototype/src",
-      "Creation\\Singleton\\": "creation/singleton/src"
+      "Creation\\Singleton\\": "creation/singleton/src",
+      "Structural\\Adapter\\": "structural/adapter/src",
+      "Structural\\Bridge\\": "structural/bridge/src"
     }
   },
   "authors": [

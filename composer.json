@@ -10,7 +10,8 @@
       "Creation\\Prototype\\": "creation/prototype/src",
       "Creation\\Singleton\\": "creation/singleton/src",
       "Structural\\Adapter\\": "structural/adapter/src",
-      "Structural\\Bridge\\": "structural/bridge/src"
+      "Structural\\Bridge\\": "structural/bridge/src",
+      "Structural\\Decorator\\": "structural/decorator/src"
     }
   },
   "authors": [

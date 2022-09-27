@@ -13,7 +13,9 @@
       "Structural\\Bridge\\": "structural/bridge/src",
       "Structural\\Decorator\\": "structural/decorator/src",
       "Structural\\Composite\\": "structural/composite/src",
-      "Structural\\Facade\\": "structural/facade/src"
+      "Structural\\Facade\\": "structural/facade/src",
+      "Structural\\Flyweight\\": "structural/flyweight/src",
+      "Structural\\Proxy\\": "structural/proxy/src"
     }
   },
   "authors": [

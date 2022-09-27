@@ -3,7 +3,7 @@
 namespace Structural\Decorator;
 
 /**
- * @decorator Orm
+ * @decorator Migration
  */
 class User implements IEntityInterface
 {

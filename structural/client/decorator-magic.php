@@ -2,7 +2,7 @@
 
 require './../../vendor/autoload.php';
 
-use Structural\Composite\User;
+use Structural\Decorator\User;
 
 $user = new User();
 $user->setName('Matheus S. Jose');

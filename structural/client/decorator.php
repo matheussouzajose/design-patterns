@@ -2,9 +2,9 @@
 
 require './../../vendor/autoload.php';
 
-use Structural\Composite\MigrationDecorator;
-use Structural\Composite\OrmDecorator;
-use Structural\Composite\User;
+use Structural\Decorator\MigrationDecorator;
+use Structural\Decorator\OrmDecorator;
+use Structural\Decorator\User;
 
 $user = new User();
 

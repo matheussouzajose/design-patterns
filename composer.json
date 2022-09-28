@@ -15,7 +15,9 @@
       "Structural\\Composite\\": "structural/composite/src",
       "Structural\\Facade\\": "structural/facade/src",
       "Structural\\Flyweight\\": "structural/flyweight/src",
-      "Structural\\Proxy\\": "structural/proxy/src"
+      "Structural\\Proxy\\": "structural/proxy/src",
+      "Behavioral\\ChainOfResponsabity\\": "behavioral/chain-of-responsability/src",
+      "Behavioral\\Command\\": "behavioral/command/src"
     }
   },
   "authors": [

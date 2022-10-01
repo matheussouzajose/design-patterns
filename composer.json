@@ -17,7 +17,16 @@
       "Structural\\Flyweight\\": "structural/flyweight/src",
       "Structural\\Proxy\\": "structural/proxy/src",
       "Behavioral\\ChainOfResponsabity\\": "behavioral/chain-of-responsability/src",
-      "Behavioral\\Command\\": "behavioral/command/src"
+      "Behavioral\\Command\\": "behavioral/command/src",
+      "Behavioral\\Interpreter\\": "behavioral/interpreter/src",
+      "Behavioral\\Iterator\\": "behavioral/iterator/src",
+      "Behavioral\\Mediator\\": "behavioral/mediator/src",
+      "Behavioral\\Memento\\": "behavioral/memento/src",
+      "Behavioral\\Observer\\": "behavioral/observer/src",
+      "Behavioral\\State\\": "behavioral/state/src",
+      "Behavioral\\Strategy\\": "behavioral/strategy/src",
+      "Behavioral\\TemplateMethod\\": "behavioral/template-method/src",
+      "Behavioral\\Visitor\\": "behavioral/visitor/src"
     }
   },
   "authors": [

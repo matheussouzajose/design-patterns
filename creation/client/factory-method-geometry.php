@@ -6,7 +6,7 @@ use Creation\Factory\Geometry\Circle;
 use Creation\Factory\Geometry\ConcreteCreator;
 use Creation\Factory\Geometry\Triangle;
 
-class Client
+class Client extends \Behavioral\Mediator\ClientColleague
 {
     public function __construct()
     {

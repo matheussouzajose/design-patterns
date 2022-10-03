@@ -4,7 +4,7 @@ namespace Behavioral\TemplateMethod;
 
 abstract class OrderAbstract
 {
-    public function finalValue($value, $size, $changeValue)
+    public function finalValue($value, $size, $changeValue): string
     {
         $value += $this->freight($size);
         $value += $this->changeValue($changeValue);
